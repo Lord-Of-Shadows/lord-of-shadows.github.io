@@ -1,0 +1,208 @@
+@font-face {
+    font-family: 'Gotham-Bold';
+    src: url('../fonts/font-generate/gotham/Gotham-Bold.woff2') format('woff2'),
+        url('../fonts/font-generate/gotham/Gotham-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+/* Lato Fonts */
+
+@font-face {
+    font-family: 'Lato-Light';
+    src: url('../fonts/font-generate/lato/Lato-Light.woff2') format('woff2'),
+        url('../fonts/font-generate/lato/Lato-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Lato-Semibold';
+    src: url('../fonts/font-generate/lato/Lato-Semibold.woff2') format('woff2'),
+        url('../fonts/font-generate/lato/Lato-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato-Thin';
+    src: url('../fonts/font-generate/lato/Lato-Thin.woff2') format('woff2'),
+        url('../fonts/font-generate/lato/Lato-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Lato-Bold';
+    src: url('../fonts/font-generate/lato/Lato-Bold.woff2') format('woff2'),
+        url('../fonts/font-generate/lato/Lato-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato-Medium';
+    src: url('../fonts/font-generate/lato/Lato-Medium.woff2') format('woff2'),
+        url('../fonts/font-generate/lato/Lato-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato-Regular';
+    src: url('../fonts/font-generate/lato/Lato-Regular.woff2') format('woff2'),
+        url('../fonts/font-generate/lato/Lato-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* Raleway Fonts */
+
+@font-face {
+    font-family: 'Raleway-SemiBold';
+    src: url('../fonts/font-generate/raleway/Raleway-SemiBold.woff2') format('woff2'),
+        url('../fonts/font-generate/lato/Raleway-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway-Light';
+    src: url('../fonts/font-generate/raleway/Raleway-Light.woff2') format('woff2'),
+        url('../fonts/font-generate/raleway/Raleway-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway-Regular';
+    src: url('../fonts/font-generate/raleway/Raleway-Regular.woff2') format('woff2'),
+        url('../fonts/font-generate/raleway/Raleway-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway-Thin';
+    src: url('../fonts/font-generate/raleway/Raleway-Thin.woff2') format('woff2'),
+        url('../fonts/font-generate/raleway/Raleway-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway-Medium';
+    src: url('../fonts/font-generate/raleway/Raleway-Medium.woff2') format('woff2'),
+        url('../fonts/font-generate/raleway/Raleway-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway-Bold';
+    src: url('../fonts/font-generate/raleway/Raleway-Bold.woff2') format('woff2'),
+        url('../fonts/font-generate/raleway/Raleway-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'RalewayExtraBold';
+    src: url('../fonts/font-generate/raleway/Raleway-ExtraBold.woff2') format('woff2'),
+        url('../fonts/font-generate/raleway/Raleway-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway-Heavy';
+    src: url('../fonts/font-generate/raleway-heavy/Raleway-Heavy.woff2') format('woff2'),
+        url('../fonts/font-generate/raleway-heavy/Raleway-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+
+/* Roboto Font */
+
+@font-face {
+    font-family: 'Roboto-Bold';
+    src: url('../fonts/font-generate/roboto/Roboto-Bold.woff2') format('woff2'),
+        url('../fonts/font-generate/roboto/Roboto-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto-Thin';
+    src: url('../fonts/font-generate/roboto/Roboto-Thin.woff2') format('woff2'),
+        url('../fonts/font-generate/roboto/Roboto-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto-Light';
+    src: url('../fonts/font-generate/roboto/Roboto-Light.woff2') format('woff2'),
+        url('../fonts/font-generate/roboto/Roboto-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto-Medium';
+    src: url('../fonts/font-generate/roboto/Roboto-Medium.woff2') format('woff2'),
+        url('../fonts/font-generate/roboto/Roboto-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url('../fonts/font-generate/roboto/Roboto-Regular.woff2') format('woff2'),
+        url('../fonts/font-generate/roboto/Roboto-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/*! Generated by Font Squirrel (https://www.fontsquirrel.com) on May 26, 2020 */
+
+@font-face {
+    font-family: 'poppinslight';
+    src: url('../fonts/font-generate/popins/poppins-light.woff2') format('woff2'),
+         url('../fonts/font-generate/popins/poppins-light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'poppinsmedium';
+    src: url('../fonts/font-generate/popins/poppins-medium.woff2') format('woff2'),
+         url('../fonts/font-generate/popins/poppins-medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'poppinsregular';
+    src: url('../fonts/font-generate/popins/poppins-regular.woff2') format('woff2'),
+         url('../fonts/font-generate/popins/poppins-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'poppinssemibold';
+    src: url('../fonts/font-generate/popins/poppins-semibold.woff2') format('woff2'),
+         url('../fonts/font-generate/popins/poppins-semibold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

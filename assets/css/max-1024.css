@@ -1,0 +1,90 @@
+@media only screen and (max-width: 1024px){
+
+	header nav .nav-item a {
+		font-size: 12px !important;
+		letter-spacing: 0;
+		padding: 10px 0;
+	}
+
+	.topHeader, .fixHR {
+		display: none;
+	}
+
+	.navbar .Franchise label {
+		width: 155px;
+		font-size: 12px;
+	}
+
+	.navbar .Franchise {
+		top: 69px !important;
+	}
+
+	/*#headerouter.active .container {
+		padding: 10px 1rem !important;
+	}*/
+
+	/*#headerouter.active .navbar .Franchise {
+		top: 69px;
+	}*/
+
+	.megamenu {
+		width: 1000px;
+	}
+
+	.home-services .Border {
+		height: 270px !important;
+	}
+
+	.mobileSlide .mSlide {
+		right: -56px;
+		left: 12px;
+		bottom: 50px;
+	}
+
+	.headBGimage .bgImageRGBA {
+		padding: 16% 0 5%;
+	}
+
+	.blogPanel .bSlide img {
+		display: none;
+	}
+
+	.blogPanel .slick-track {
+		height: 220px !important;
+	}
+
+	.blogContent {
+		bottom: inherit;
+		right: inherit;
+		left: inherit;
+	}
+
+	.aboutContact h6 {
+		line-height: 33px !important;
+	}
+
+	.weWorkRGBA {
+		height: 690px;
+	}
+
+	.blogPanel .slick-prev {
+		left: 32%;
+	}
+
+	.blogPanel .slick-next {
+		right: 33%;
+	}
+
+	.mLogo {
+		top: 20px;
+	}
+
+	.navbar ul {
+		padding: 10px 0;
+	}
+
+	#reg-workshop {
+		width: 80%;
+		margin: auto !important;
+	}
+}

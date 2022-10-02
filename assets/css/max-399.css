@@ -1,0 +1,114 @@
+@media only screen and (max-width: 380px){
+
+	.bannerContent h1 {
+		font-size: 38px !important;
+	}
+
+	.bannerContent p {
+		font-size: 16px !important;
+		padding: 8px 0 !important;
+		letter-spacing: 1px;
+	}
+
+	.bannerContent .cwidth {
+		padding: 10px 0 !important;
+		width: 100% !important;
+	}
+
+	.bannerContent button {
+		font-size: 14px !important;
+		letter-spacing: 2px;
+		padding: 8px 0 !important;
+	}
+
+	.homeHeading span {
+		font-size: 25px !important;
+	}
+
+	.splService .cWidth {
+		width: 90% !important;
+	}
+
+	.bottomTfour .cstmWidth img {
+	    width: 30%;
+	}
+
+	.bottomTfour p {
+		font-size: 12px;
+	}
+
+	.mapContent {
+		height: 200px;
+	}
+
+	.headBGimage .bgImageRGBA {
+		padding: 36% 0 5%;
+	}
+
+	.headBGimage h1 {
+	    font-size: 30px !important;
+	}
+
+	.peopleSays .leftSlide {
+		left: -30% !important;
+	}
+
+	.peopleSays .rightSlide {
+		right: -30% !important;
+	}
+
+	.peopleSay {
+		width: 60% !important;
+	}
+
+	.blogPanel .slick-prev {
+		left: 4% !important;
+	}
+
+	.blogPanel .slick-next {
+		right: 10% !important;
+	}
+
+	.blogPanel .bSlide .rightPart button {
+		padding: 6px 10px;
+	}
+
+	.About-ServicePoint .leftPart {
+		width: 22%;
+	}
+
+	.About-ServicePoint .rightPart {
+		width: 78%;
+		padding-top: 4px;
+	}
+
+	.expertTeam .panelHead h1 {
+		font-size: 26px !important;
+	}
+
+	.activeInner .mLogo img, #headerouter.active .mLogo img {
+		width: 50%;
+	}
+
+	.toggle-bar::before, .toggle-bar::after, .toggle-bar {
+		width: 32px;
+		height: 2px;
+		/*top: 10px;*/
+	}
+
+	.toggle-bar::before {
+		top: -10px;
+	}
+
+	.toogleBar {
+		top: 45px;
+	}
+
+	.toggle-bar {
+		border-top: 2px solid #fff;
+	}
+
+	.homeBannerBtn {
+		width: 50% !important;
+	}
+}

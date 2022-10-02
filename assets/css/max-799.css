@@ -1,0 +1,118 @@
+@media only screen and (max-width: 760px){
+
+	.topPadding {
+		padding-top: 12%;
+	}
+
+	.bannerContent h1 {
+		font-size: 60px !important;
+	}
+
+	.bannerContent {
+		top: 25%;
+	}
+
+	.mobileNavigation {
+		width: 70%;
+	}
+
+	.footerBG {
+		text-align: center !important;
+	}
+
+	.homeHeading span {
+		font-size: 35px !important;
+	}
+
+	.homeHeading  p {
+		width: 100% !important;
+	}
+
+	.addressSide .leftPart {
+		width: 100%;
+	}
+
+	.addressSide .leftPart, .addressSide .rightPart {
+		width: 100% !important;
+		text-align: center;
+	}
+
+	.addressSide .leftPart {
+		padding-bottom: 25px;
+	}
+
+	.bottomTfour .phone img, .bottomTfour .laptop img {
+		width: 50% !important;
+	}
+
+	.bottomTfour .cstmWidth {
+	    width: 80%;
+	}
+
+	.newsletterBG p {
+		width: 100% !important;
+	}
+
+	.headBGimage .bgImageRGBA {
+		padding: 18% 0 5%;
+	}
+
+	.headBGimage h1 {
+	    width: 100% !important;
+	    font-size: 55px !important;
+	}
+
+	.servicesContent .homeHeading span {
+		font-size: 30px !important;
+	}
+
+	.modal .smallNone {
+		display: none;
+	}
+
+	.modal {
+		width: 50%;
+		margin: auto !important;
+		left: 0;
+		right: 0;
+	}
+
+	.peopleSays .leftSlide {
+		left: -5% !important;
+	}
+
+	.peopleSays .rightSlide {
+		right: -5% !important;
+	}
+
+	.blogPanel .slick-prev {
+		left: 22%;
+	}
+
+	.blogPanel .slick-next {
+		right: 26%;
+	}
+
+	.happyClient .smallSlideWidth {
+		width: 20%;
+	}
+
+	.happyClient .clientLogo {
+		display: none;
+	}
+
+	.happyClient .panelHead p {
+		width: 100% !important;
+	}
+
+	.homeBannerBtn {
+		width: 30% !important;
+	}
+
+	.headBGimage .bgImageRGBA {
+		padding-top: 24%;
+	}
+
+
+
+}

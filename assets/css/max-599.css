@@ -1,0 +1,125 @@
+@media only screen and (max-width: 559px){
+
+	.bannerContent .cwidth {
+		width: 75% !important;
+	}
+
+	.homeHeading span {
+		font-size: 40px;
+	}
+
+	.splService .cWidth {
+		width: 70% !important;
+		margin: auto;
+	}
+
+	.bottomTfour .laptop {
+		top: 0 !important;
+	}
+
+	.bottomTfour .cstmWidth img {
+		width: 38%;
+	}
+
+	.bottomTfour .phone img, .bottomTfour .laptop img {
+	    width: 30% !important;
+	}
+
+	.mapContent {
+		height: 300px;
+	}
+
+	.footerBG .FooterContact .float-start, .footerBG .FooterContact .float-end, .bottomSocial, .appStore {
+		width: 100% !important;
+		text-align: center !important;
+	}
+
+	.footerBG .appStore img {
+		width: 50% !important;
+		margin-top: 0;
+	}
+
+	.footerBottom p {
+		font-size: 9px !important;
+	}
+
+	.headBGimage .bgImageRGBA {
+		padding: 24% 0 5%;
+	}
+
+	.headBGimage h1 {
+	    font-size: 40px !important;
+	}
+
+	.servicesContent .homeHeading span {
+	    font-size: 26px !important;
+	}
+
+	.topPadding {
+		padding-top: 12%;
+	}
+
+	.panelHead p {
+		width: 75% !important;
+	}
+
+	.livePreview .float-start, .livePreview .float-end {
+		width: 100% !important;
+		text-align: center !important;
+	}
+
+	.livePreview .float-end {
+		padding-top: 0 !important;
+	}
+
+	.clientLogo .carousel-control-prev {
+		left: 0px;
+	}
+
+	.clientLogo .carousel-control-next {
+		right: 0px;
+	}
+
+	.modal {
+		width: 75%;
+	}
+
+	.peopleSays .leftSlide {
+		left: -15% !important;
+	}
+
+	.peopleSays .rightSlide {
+		right: -15% !important;
+	}
+
+	.mobileNavigation {
+		width: 80%;
+		/*top: 90px;*/
+	}
+
+	#headerouter.active .mobileNavigation {
+		/*top: 70px;*/
+	}
+
+	.blogPanel .slick-prev {
+		left: 17%;
+	}
+
+	.blogPanel .slick-next {
+		right: 20%;
+	}
+
+	.expertTeam .panelHead p {
+		font-size: 15px !important;
+		width: 100% !important;
+	}
+
+	.homeBannerBtn {
+		width: 40% !important;
+	}
+
+	.headBGimage .bgImageRGBA {
+	    padding-top: 45% !important;
+	}
+	
+}

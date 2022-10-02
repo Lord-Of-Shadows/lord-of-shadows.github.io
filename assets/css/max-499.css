@@ -1,0 +1,122 @@
+@media only screen and (max-width: 449px){
+
+	.mLogo img {
+		width: 75%;
+	}
+
+	.bannerContent h1 {
+		font-size: 45px !important;
+	}
+
+	.bannerContent p {
+		width: 90% !important;
+		font-size: 20px !important; 
+	}
+
+	.bannerContent .cwidth {
+	    width: 90% !important;
+	}
+
+	.homeHeading span {
+		font-size: 25px !important;
+	}
+
+	.homeHeading  p {
+		font-size: 14px !important;
+	}
+
+	.bottomTfour .cstmWidth {
+	    width: 90%;
+	}
+
+	.bottomTfour .phone img, .bottomTfour .laptop img {
+		width: 25% !important;
+	}
+
+	.newsletterBG .nLetter input, .newsletterBG .nLetter button {
+		font-size: 13px !important;
+		height: 36px;
+	}
+
+	.headBGimage .bgImageRGBA {
+		padding: 28% 0 5%;
+	}
+
+	.headBGimage h1 {
+	    font-size: 30px !important;
+	}
+
+	.headBGimage p {
+	    font-size: 14px !important;
+	}
+
+	.servicesContent .homeHeading span {
+	    font-size: 20px !important;
+	    margin-bottom: 20px !important;
+	}
+
+	.servicesContent {
+		padding: 20px 12px !important;
+	}
+
+	.modal {
+		width: 85%;
+	}
+
+	.modal .cPaddingOuter {
+		padding: 20px !important;
+	}
+
+	.peopleSays .leftSlide {
+		left: -25% !important;
+	}
+
+	.peopleSays .rightSlide {
+		right: -25% !important;
+	}
+
+	.blogPanel .slick-prev {
+		left: 10% !important;
+	}
+
+	.blogPanel .slick-next {
+		right: 15% !important;
+	}
+
+	.About-ServicePoint .leftPart {
+		width: 20%;
+	}
+
+	.About-ServicePoint .rightPart {
+		width: 80%;
+	}
+
+	.activeInner .mLogo img {
+		width: 60% !important;
+	}
+
+	.mobileNavigation {
+		/*top: 60px !important;*/
+	}
+
+	#headerouter.active .mobileNavigation {
+		/*top: 70px !important;*/
+	}
+
+	.activeInner .navHeight {
+    	height: 65px;
+    }
+
+    .activeInner .toogleBar {
+		top: 12px;
+	}
+
+	.activeInner.active .toogleBar {
+	    top: 12px !important;
+	}
+
+	.activeInner .mLogo img {
+	    width: 70% !important;
+	}
+
+}
